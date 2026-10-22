@@ -1,0 +1,8 @@
+{
+  "name": "Star Scripts | MM2",
+  "description": "Premium Murder Mystery 2 scripts and community hub.",
+  "requestFramePermissions": ["clipboard-write"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
